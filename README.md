@@ -1,5 +1,5 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/65e9gf9ay9j4at2o?svg=true)](https://ci.appveyor.com/project/npukojiucm/2-dom)
-![CI](https://github.com/npukojiucm/2-DOM/actions/workflows/web.yml/badge.svg)
+[![Build status](https://ci.appveyor.com/api/projects/status/bsa4lt19gpwyrkdy?svg=true)](https://ci.appveyor.com/project/npukojiucm/2-dom-task-2)
+![CI](https://github.com/npukojiucm/2-DOM-task-2/actions/workflows/web.yml/badge.svg)
 
 # Домашнее задание к занятию "2. DOM"
 
