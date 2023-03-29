@@ -1,5 +1,5 @@
 {
-  "name": "2-DOM",
+  "name": "2-DOM-task-2",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/npukojiucm/2-DOM.git"
+    "url": "git+https://github.com/npukojiucm/2-DOM-task-2.git"
   },
   "author": "",
   "license": "ISC",
