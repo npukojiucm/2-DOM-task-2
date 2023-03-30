@@ -95,7 +95,7 @@ function sortTable({ rule, attr }) {
 
   trArray.forEach((parent) => {
     parent.replaceChildren();
-    createElements(parent, parent.dataset);
+    createElements(parent);
     tbody.append(parent);
   });
 }
@@ -142,7 +142,7 @@ function sortRule() {
     window.localStorage.setItem('rule', 2);
     return sortTable(rules[1]);
   }
-  if (rule === 8) {
+  if (rule >= 8) {
     window.localStorage.setItem('rule', 1);
   } else {
     window.localStorage.setItem('rule', +rule + 1);
